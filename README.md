@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://ozeechristine.github.io/Manage-Landing-Page-Solution/)
-- Live Site URL: (https://ozeechristine.github.io/Manage-Landing-Page-Solution/))
+- Solution URL: (https://github.com/ozeechristine/Manage-Landing-Page-Solution)
+- Live Site URL: (https://ozeechristine.github.io/Manage-Landing-Page-Solution/)
 
 ## My process
 
