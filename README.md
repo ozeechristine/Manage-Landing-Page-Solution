@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://ozeechristine.github.io/Manage-Landing-Page-Solution/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://ozeechristine.github.io/Manage-Landing-Page-Solution/))
 
 ## My process
 
